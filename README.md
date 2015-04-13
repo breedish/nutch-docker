@@ -1,15 +1,3 @@
-# Nutch Dockerfile #
-
-This directory contains Dockerfile of [Nutch](http://nutch.apache.org) for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/dockerfile/elasticsearch/) published to the [Hub Registry](https://registry.hub.docker.com/).
-
-## What is Nutch?
-
-![Nutch logo](https://wiki.apache.org/nutch/FrontPage?action=AttachFile&do=get&target=nutch_logo_medium.gif "Nutch")
-
-Apache Nutch is a highly extensible and scalable open source web crawler software project. 
-
-Nutch can run on a single machine, but gains a lot of its strength from running in a Hadoop cluster
-
 ## Docker Image
 
 Current configuration of this image consists of components:
