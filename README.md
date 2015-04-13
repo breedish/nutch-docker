@@ -8,7 +8,7 @@ Current configuration of this image consists of components:
 
 ##  Base Image
 
-
+fernandoacorreia/ubuntu-14.04-oracle-java-1.7
 
 ## Installation
 
